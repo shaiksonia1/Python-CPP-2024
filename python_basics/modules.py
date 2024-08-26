@@ -5,4 +5,5 @@ l = dir(m)
 for i in l:
     print(i)
 
-print(m.pi)
+print(m.sqrt(4))
+
