@@ -108,4 +108,8 @@ elif a==b:
 else:
     print("i dont know")
 
-    
+x = range(5,20)
+print(x)
+
+
+
