@@ -8,6 +8,6 @@ else:
     nsum = sum(int(digit)**4 for digit in num)
 
 if nsum == int(num):
-    print(f"{num} is a Narcissistic number. {nsum}")
+    print(f"{num} is a Narcissistic number {nsum}")
 else:
-    print(f"{num} is not a Narcissistic number.{nsum}")
+    print(f"{num} is not a Narcissistic number{nsum}")
