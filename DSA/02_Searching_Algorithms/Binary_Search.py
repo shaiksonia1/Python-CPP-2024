@@ -45,3 +45,6 @@ def binary_rec(Arr,key,L,R):
 Arr = [2,34,56,78,90,99,178,567]
 found = binarysearch_iterative(Arr,56)
 print("Result",found)
+
+
+
