@@ -9,10 +9,10 @@ def insertionsort(arr):
         while pos>0 and arr[pos-1]>cvalue:
             arr[pos] = arr[pos-1]
             pos = pos-1
-            arr[pos] =cvalue
+            arr[pos] = cvalue
 
 
-arr = [34,6,7,8,46,789,4,5,0]
+arr = [2,8,4,6,10,1,13]
 
 print(arr)
 insertionsort(arr)
