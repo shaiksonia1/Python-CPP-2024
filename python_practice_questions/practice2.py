@@ -8,3 +8,4 @@ def reverse_string(s):
 
 reversed_string = reverse_string(s)
 print(f"Reversed string: {reversed_string}")
+
