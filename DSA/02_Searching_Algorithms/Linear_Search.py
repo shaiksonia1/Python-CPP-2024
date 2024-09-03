@@ -15,3 +15,7 @@ found = linearsearch(Arr,89)
 print("result :",found)
 
 # linear time complexity in worst case is O(n)
+
+
+
+
